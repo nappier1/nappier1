@@ -1,6 +1,8 @@
 <!-- 💀 README: nappierbug — 17yo Code Enthusiast 💀 -->
 <div align="center" style="background-color:black; color:#00FF00; padding:20px; font-family:'Courier New', monospace; border-radius:10px;">
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nappierbug&label=Profile%20Views&color=00ff00&style=for-the-badge" alt="Profile views counter" />
+</p>
   <h1 style="color:#00FF00;">&lt; Initializing nappierbug... &gt;</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=%3E+Booting+Digital+Persona...;%3E+Access+Granted!;%3E+Welcome+to+nappierbug+HQ!;%3E+Stay+Curious..." alt="Typing SVG">
