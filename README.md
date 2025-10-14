@@ -39,7 +39,7 @@
 
   <h2 style="color:#00FF00;">Connect with Me 📡</h2>
   <p>
-    <a href="https://wa.me/0116141363" target="_blank">
+    <a href="https://wa.me/254116141363" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
     <a href="https://www.instagram.com/n.a.p.p.i.e.r?igsh=ZGUzMzM3NWJiOQ==" target="_blank">
