@@ -1,48 +1,31 @@
-# 👋 Hi there, I'm [Your Name]!
+## Hey, Geek 😎
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
 
-Welcome to my GitHub profile!  
-I’m a passionate **[your role — e.g. Web Developer / Software Engineer / CS Student]** who loves building creative and useful things with code.
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
----
+<p align="center"><a href="https://github.com/nappierbug"><img title="NappierBug" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif" style="filter: hue-rotate(120deg);"></a>
+</p>
+  
+### 🐞 ABOUT NAPPIERBUG >>>>
+<p align="center"><a href="https://github.com/nappierbug"><img title="NappierBug" src="https://github-readme-stats.vercel.app/api?username=nappierbug&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200&title_color=ff6b6b&text_color=ffffff&icon_color=48dbfb&bg_color=1e1e2e"></a>
+</p>
 
-### 🚀 About Me
-- 🌱 I’m currently learning **[your current focus — e.g. React, Node.js, or Python]**
-- 💡 I enjoy working on **[type of projects — e.g. full-stack apps, automation tools, or AI projects]**
-- 💬 Ask me about **[topics you like discussing — e.g. web development, open source, or UI design]**
-- ⚡ Fun fact: **[insert something fun or personal here!]**
+<p align="center">
+<a href="https://github.com/nappierbug"><img title="GitHub" src="https://img.shields.io/badge/nappierbug-created%20by%20kathara-ff6b6b?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="YouTube" src="https://img.shields.io/badge/YouTube-NappierBug-ff0000?style=for-the-badge&logo=Youtube"></a>
+</p>
 
----
-
-### 🧰 Tech Stack
-Here are some of the tools and technologies I use:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visualstudiocode&logoColor=white)
-
-*(You can remove or add more badges depending on your skills — badges are from [shields.io](https://shields.io))*  
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+<a href="#"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Channel-0088cc?style=for-the-badge&logo=Telegram"></a>
+<a href="#"><img title="WhatsApp" src="https://img.shields.io/badge/whatsapp-Community-25d366?style=for-the-badge&logo=whatsapp"></a>
+<a href="#"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-Profile-e4405f?style=for-the-badge&logo=instagram"></a>
+</p>
+<p align="center">
+<a href="https://github.com/nappierbug"><img title="nappierbug" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nappierbug&layout=compact&theme=radical&title_color=ff6b6b&text_color=ffffff&bg_color=1e1e2e"></a>
+</p>
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-
----
-
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
-
----
-
-#### © kathara
+<p align="center">
+<strong>✨ Created with ❤️ by Kathara</strong>
+</p>
