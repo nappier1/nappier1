@@ -48,3 +48,8 @@
   <b style="color:#00FF00;">— nappierbug known as kathara😂😅😂😅💚</b>
 
 </div>
+[![matrix](https://i.imgur.com/zYI1gBl.gif)](https://i.imgur.com/zYI1gBl.gif)
+
+<img src="https://img.shields.io/badge/Status-Good%20computing%20guys%20seems%20to%20code%20%F0%9F%98%82-00FF00?style=for-the-badge&logo=ghost" alt="hacker-badge" />
+
+<h3 style="color:#00FF00;">&lt; It's kathara ur favourite Dev AK her 😅😂😅😂⚡ &gt;</h3>
