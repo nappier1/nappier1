@@ -28,17 +28,6 @@
   </p>
 
   <br>
-
-  <h2 style="color:#00FF00;">What I Do ⚙️</h2>
-  <ul style="text-align:left;display:inline-block;color:#00FF00;">
-    <li>🧩 Build small, smart tools and automations</li>
-    <li>💻 Explore cybersecurity and ethical hacking</li>
-    <li>🔍 Reverse engineer ideas into possibilities</li>
-    <li>⚡ Always learning new programming languages</li>
-  </ul>
-
-  <br>
-
   <h2 style="color:#00FF00;">Connect with Me 📡</h2>
   <p>
     <a href="https://wa.me/254116141363" target="_blank">
@@ -47,20 +36,7 @@
     <a href="https://www.instagram.com/n.a.p.p.i.e.r?igsh=ZGUzMzM3NWJiOQ==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-  </p>
 
-  <br>
-
-  <h2 style="color:#00FF00;">System Logs 🧾</h2>
-  <pre style="text-align:left; background-color:#000; color:#00FF00; padding:10px; border-radius:10px; border:1px solid #00FF00; width:80%; margin:auto;">
-    > Connecting to nappierbug@github...
-    > Connection Established ✔
-    > Scanning for innovation...
-    > Code detected in multiple languages.
-    > Status: ACTIVE_ 🟢
-  </pre>
-
-  <br>
 
   <h3 style="color:#00FF00;">&lt; /Transmission Ended &gt;</h3>
 
