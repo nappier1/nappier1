@@ -18,25 +18,7 @@
       </p>
 
       <!-- contact icons -->
-      <p style="margin:6px 0 0; display:flex; gap:12px; align-items:center;">
-        <a href="https://www.instagram.com/n.a.p.p.i.e.r" target="_blank" style="text-decoration:none;">
-          <img src="https://img.shields.io/badge/Instagram-@n.a.p.p.i.e.r-ff007f?style=for-the-badge&logo=instagram" alt="instagram">
-        </a>
-        <a href="https://wa.me/254116141363" target="_blank" style="text-decoration:none;">
-          <img src="https://img.shields.io/badge/WhatsApp-%2B254116141363-25D366?style=for-the-badge&logo=whatsapp" alt="whatsapp">
-        </a>
-        <a href="https://github.com/nappier1" target="_blank" style="text-decoration:none;">
-          <img src="https://img.shields.io/badge/GitHub-nappier1-24292e?style=for-the-badge&logo=github" alt="github">
-        </a>
-      </p>
-    </div>
-
-    <!-- Right: avatar / hero image -->
-    <div style="width:150px; flex-shrink:0; text-align:center;">
-      <img src="./hero-hoodie.jpg" alt="hero" style="width:150px; height:150px; object-fit:cover; border-radius:999px; border:6px solid rgba(0,0,0,0.25); box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
-    </div>
-  </div>
-
+      
   <!-- small badges row -->
   <p style="margin-top:14px;">
     <img src="https://komarev.com/ghpvc/?username=nappier1" alt="profile views" />
@@ -51,38 +33,7 @@
 
 ---
 
-<!-- TERMINAL-LIKE SCRIPT SECTION -->
-<pre style="background:#000; color:#00ff9d; padding:16px 18px; border-radius:8px; overflow:auto; font-family: 'Courier New', monospace; font-size:15px; line-height:1.45;">
-# ──────────────────────────────── SYSTEM LOG ───────────────────────────────
-# Booting up profile for user: KATHARA (nappier)
-# environment: terminal • green-on-black • AI-driven curiosity
-# system time: $(date -u)
-
-[00:00.01] INIT   : Kernel loaded successfully
-[00:00.02] OK     : Neural scripts engaged
-[00:00.03] OK     : Repo sync → nappier1
-[00:00.04] CONNECT: NAPPIER-XMD online
-
-persona.load("Kathara")
-  name        : Nappier
-  alias       : Kathara
-  age         : 17
-  role        : coder • system tinkerer • creator
-  specialties : automation | WhatsApp bots | terminal aesthetics
-
-projects.list()
-  [1] NAPPIER-XMD        — WhatsApp bot automation framework
-  [2] Session-Generator  — secure QR/session handling tool
-  [3] DarkTerminalFX     — aesthetic profile interface
-
-system.contact()
-  whatsapp  = +254116141363
-  instagram = @n.a.p.p.i.e.r
-  github    = nappier1
-
-system.status()
-  `STATUS:` **⚙️ running cyber scripts...**
-
+<!-- 
 # ──────────────────────────────────────────────────────────────────────────
 # SYSTEM STATUS: ONLINE
 # Developer: Kathara (Nappier)
