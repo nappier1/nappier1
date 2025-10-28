@@ -4,21 +4,15 @@
     K A T H A R A — N A P P I E R
   </h1>
 
-  <!-- Typing animation (SVG) -->
-  <p><img src="./typing.svg" alt="typing animation" style="max-width:100%; border-radius:8px;" /></p>
+<!-- Typing-only intro for Kathara (Nappier) -->
+<div align="center" style="background:black; padding:18px; border-radius:12px;">
 
-  <!-- Big green hero card -->
-  <div style="background:#008b3a; color:#051007; padding:28px; border-radius:14px; display:flex; align-items:center; gap:28px; box-shadow: 0 8px 30px rgba(0,0,0,0.35);">
-    <!-- Left: intro -->
-    <div style="flex:1; color:#e6ffe8;">
-      <h2 style="margin:0; font-size:34px; font-weight:800; color:#001f00;">Kathara / Nappier</h2>
-      <p style="margin:8px 0 14px; font-size:16px; color:#cfffdf;">
-        17-year-old developer • self-taught coder • system tinkerer 🧠  
-        Creator of <b>NAPPIER-XMD</b> — a futuristic WhatsApp automation bot.
-      </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&duration=4500&pause=900&color=00FF00&center=true&vCenter=true&multiline=true&width=780&height=180&lines=Name:+Kathara+(Nappier);Age:+17;Creator:+NAPPIER-XMD+(WhatsApp+bot);Specialties:+Automation,+Scripting,+Terminal+Aesthetics;Motto:+Stay+curious.+Keep+building." alt="typing animation" />
+</p>
 
-      <!-- contact icons -->
-      
+</div>
+  
   <!-- small badges row -->
   <p style="margin-top:14px;">
     <img src="https://komarev.com/ghpvc/?username=nappier1" alt="profile views" />
