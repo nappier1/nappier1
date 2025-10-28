@@ -1,75 +1,95 @@
-<!-- NAPPIER README -->
-<div align="center" style="background-color:black; padding:20px; border-radius:15px;">
+<!-- HERO / HEADER -->
+<div align="center" style="max-width:980px;margin:0 auto;">
+  <h1 style="font-family: 'Segoe UI', Roboto, 'Courier New', monospace; font-size:44px; margin:12px 0 6px; color:#00ff9d;">
+    K A T H A R A — N A P P I E R
+  </h1>
 
-<h1 align="center" style="color:#00ff9d; font-family:'Courier New', monospace; font-size:44px; text-shadow:0 0 15px #00ff9d;">
-  <span style="animation: flicker 2s infinite alternate;">K A T H A R A — N A P P I E R</span>
-</h1>
+  <!-- Typing animation (SVG) -->
+  <p><img src="./typing.svg" alt="typing animation" style="max-width:100%; border-radius:8px;" /></p>
 
-<!-- Matrix Rain Simulation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnishDe12020/Matrix-Rain-Animation/main/matrix.gif" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00ff9d;" />
-</p>
+  <!-- Big green hero card -->
+  <div style="background:#008b3a; color:#051007; padding:28px; border-radius:14px; display:flex; align-items:center; gap:28px; box-shadow: 0 8px 30px rgba(0,0,0,0.35);">
+    <!-- Left: intro -->
+    <div style="flex:1; color:#e6ffe8;">
+      <h2 style="margin:0; font-size:34px; font-weight:800; color:#001f00;">Kathara / Nappier</h2>
+      <p style="margin:8px 0 14px; font-size:16px; color:#cfffdf;">
+        17-year-old developer • self-taught coder • system tinkerer 🧠  
+        Creator of <b>NAPPIER-XMD</b> — a futuristic WhatsApp automation bot.
+      </p>
+
+      <!-- contact icons -->
+      <p style="margin:6px 0 0; display:flex; gap:12px; align-items:center;">
+        <a href="https://www.instagram.com/n.a.p.p.i.e.r" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/Instagram-@n.a.p.p.i.e.r-ff007f?style=for-the-badge&logo=instagram" alt="instagram">
+        </a>
+        <a href="https://wa.me/254116141363" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/WhatsApp-%2B254116141363-25D366?style=for-the-badge&logo=whatsapp" alt="whatsapp">
+        </a>
+        <a href="https://github.com/nappier1" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/GitHub-nappier1-24292e?style=for-the-badge&logo=github" alt="github">
+        </a>
+      </p>
+    </div>
+
+    <!-- Right: avatar / hero image -->
+    <div style="width:150px; flex-shrink:0; text-align:center;">
+      <img src="./hero-hoodie.jpg" alt="hero" style="width:150px; height:150px; object-fit:cover; border-radius:999px; border:6px solid rgba(0,0,0,0.25); box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+    </div>
+  </div>
+
+  <!-- small badges row -->
+  <p style="margin-top:14px;">
+    <img src="https://komarev.com/ghpvc/?username=nappier1" alt="profile views" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/nappier1?label=Followers&style=flat" alt="followers">
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/nappier1?style=flat" alt="stars">
+    &nbsp;
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=nappier1.nappier1" alt="visitors" />
+  </p>
+</div>
 
 ---
 
-<!-- CMATRIX TERMINAL SECTION -->
-<pre style="
-  background:#000;
-  color:#00ff9d;
-  padding:18px;
-  border-radius:12px;
-  font-family:'Courier New', monospace;
-  font-size:14px;
-  line-height:1.45;
-  overflow:auto;
-  box-shadow:0 0 30px rgba(0,255,100,0.4);
-  animation: glow 1.5s infinite alternate;
-">
-[00:00.00] Initializing Nappier environment ...
-[00:00.01] System status → ONLINE
-[00:00.02] Access granted for user: nappier (kathara)
-[00:00.04] Executing matrix.sh ▓▒░▒▓░▒▓▒░▓▒░▓▒░▓▒░▓▒░▓▒░
+<!-- TERMINAL-LIKE SCRIPT SECTION -->
+<pre style="background:#000; color:#00ff9d; padding:16px 18px; border-radius:8px; overflow:auto; font-family: 'Courier New', monospace; font-size:15px; line-height:1.45;">
+# ──────────────────────────────── SYSTEM LOG ───────────────────────────────
+# Booting up profile for user: KATHARA (nappier)
+# environment: terminal • green-on-black • AI-driven curiosity
+# system time: $(date -u)
 
-/usr/bin/nappier --init
-  ├── alias       : kathara
-  ├── domain      : cyber / AI / systems
-  ├── status      : active
-  ├── project     : NAPPIER-XMD
-  └── version     : 5.0.7 [stable release]
+[00:00.01] INIT   : Kernel loaded successfully
+[00:00.02] OK     : Neural scripts engaged
+[00:00.03] OK     : Repo sync → nappier1
+[00:00.04] CONNECT: NAPPIER-XMD online
 
-loop(∞)
-{
-  printf("%s", "Wake up, Kathara...");
-  sleep(0.8);
-  printf("%s", "Follow the white code...");
-  sleep(1);
-}
+persona.load("Kathara")
+  name        : Nappier
+  alias       : Kathara
+  age         : 17
+  role        : coder • system tinkerer • creator
+  specialties : automation | WhatsApp bots | terminal aesthetics
 
-< Running cmatrix --green --fast --terminal >
+projects.list()
+  [1] NAPPIER-XMD        — WhatsApp bot automation framework
+  [2] Session-Generator  — secure QR/session handling tool
+  [3] DarkTerminalFX     — aesthetic profile interface
 
-▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░
-01001011 01000001 01010100 01001000 01000001 01010010 01000001
-▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓▒░▒▓
+system.contact()
+  whatsapp  = +254116141363
+  instagram = @n.a.p.p.i.e.r
+  github    = nappier1
 
+system.status()
+  `STATUS:` **⚙️ running cyber scripts...**
+
+# ──────────────────────────────────────────────────────────────────────────
+# SYSTEM STATUS: ONLINE
+# Developer: Kathara (Nappier)
+# Profile active — Terminal aesthetics powered by curiosity.
+# ──────────────────────────────────────────────────────────────────────────
 </pre>
 
 ---
 
-<!-- CONTACTS -->
-<p align="center" style="margin-top:10px;">
-  <a href="https://www.instagram.com/n.a.p.p.i.e.r" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@n.a.p.p.i.e.r-ff007f?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://wa.me/254116141363" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B254116141363-25D366?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="https://github.com/nappier1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nappier1-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center" style="color:#00ff9d; font-family:'Courier New', monospace; font-size:13px;">
-  ⚡ Crafted by <b>Kathara</b> | ©kathara | All rights reserved ⚡
-</p>
-
-</div>
+<p align="center" style="margin-top:18px; color:#8affc7;">Made with ❤️ by Kathara | © KATHARA | All rights reserved.</p>
