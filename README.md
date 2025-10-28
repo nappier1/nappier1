@@ -1,21 +1,53 @@
-<!-- README: nappierbug — 17yo Coder / Security Enthusiast -->
-<p align="center">
-  <pre style="background:#000;color:#00FF00;padding:14px;border-radius:8px;font-family:monospace;">
-    ┌─────────────────────────────────────────────────────────────┐
-    │  >  D E C O D I N G   P E R S O N A :  nappierbug          │
-    ├─────────────────────────────────────────────────────────────┤
-    │  age: 17                role: coder • programmer • curious │
-    │  vibe: terminal • green-on-black • relentless curiosity     │
-    └─────────────────────────────────────────────────────────────┘
-  </pre>
-</p>
+<h1 align="center">💀 INITIALIZING NAPPIER-BUG SYSTEM 💀</h1>
+<p align="center"><img src="./typing.svg" alt="nappierbug typing animation" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=700&lines=>+Booting...;>+Profile+Loaded+as+nappierbug;>+Engage+to+learn+more..." alt="typing">
-</p>
+```bash
+# ────────────────────────────────────────────────
+# Boot Sequence: nappier1 Repository
+# User: nappierbug
+# Mode: Developer / System Harker
+# ────────────────────────────────────────────────
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nappierbug&label=Profile+Views&color=00ff00&style=for-the-badge" alt="profile views" />
-</p>
+[00:00:00] [INIT] loading modules...
+[00:00:01] [OK] system kernel: active
+[00:00:02] [OK] terminal: online
+[00:00:03] [OK] github repo: nappier1
+[00:00:04] [CONNECT] NAPPIER-XMD — WhatsApp Bot Online
 
----
+> persona.load("nappierbug")
+
+   name        : nappierbug
+   age         : 17
+   occupation  : coder | programmer | system tinkerer
+   specialty   : automation • scripting • terminal aesthetics
+   vibe        : green-on-black • relentless curiosity
+
+> system.contact()
+
+   📞 WhatsApp   : +254116141363
+   📷 Instagram  : https://www.instagram.com/n.a.p.p.i.e.r
+   💻 GitHub     : https://github.com/nappier1
+
+> system.projects()
+
+   [1] NAPPIER-XMD        → WhatsApp automation AI
+   [2] Session Generator   → Secure session handler
+   [3] README-Terminal     → Animated GitHub profile
+
+> system.stats()
+
+   👁  Profile Views : 133+
+   ⭐  Stars          : 1+
+   ⏱  Active Commits : continuous
+
+> system.status()
+
+   `STATUS:` **⚙️ crafting new scripts...**
+
+# ────────────────────────────────────────────────
+# SYSTEM STATUS: ONLINE
+# PROFILE: ACTIVE
+# VERSION: v1.7 — green/black theme
+# ────────────────────────────────────────────────
+
+> stay curious. stay coded.
